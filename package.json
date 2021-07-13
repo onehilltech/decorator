@@ -1,0 +1,27 @@
+{
+  "name": "decorator",
+  "version": "1.0.0",
+  "description": "Utility library for writing custom JavaScript decorators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onehilltech/decorator.git"
+  },
+  "keywords": [
+    "decorator",
+    "custom",
+    "create"
+  ],
+  "author": "One Hill Technologies, LLC",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/onehilltech/decorator/issues"
+  },
+  "homepage": "https://github.com/onehilltech/decorator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
